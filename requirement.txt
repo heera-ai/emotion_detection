@@ -1,4 +1,4 @@
-opencv-contrib-python
+opencv-python==4.4.0.44
 streamlit>0.66
 streamlit==0.82.0
 streamlit_webrtc==0.20.1
