@@ -1,3 +1,4 @@
+opencv-python
 ffmpeg
 libsm6
 libxext6
