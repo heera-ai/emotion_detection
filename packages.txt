@@ -1,4 +1,6 @@
-opencv-python
-ffmpeg
-libsm6
-libxext6
+build-essential
+libgtk-3-dev
+libboost-all-dev
+freeglut3-dev
+cmake
+
