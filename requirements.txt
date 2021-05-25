@@ -6,3 +6,4 @@ opencv-contrib-python-headless
 joblib==0.16.0
 scikit-learn
 scikit-image
+pydub
